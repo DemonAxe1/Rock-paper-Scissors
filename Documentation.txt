@@ -1,0 +1,17 @@
+Rock Paper Scissors
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Main idea:
+----------
+This is just the typical game of rock paper scissors. The player is playing against a bot using random 
+Inputs to pick Rock Paper Scissors. Then the winner is prompted that they won and if the player wants 
+To go again
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User input:
+---------------
+The user enters 1, 2, or 3 representing Rock, paper, or Scissors. Once the program takes the input and checks if the input is valid and within the range, the bot picks their selection, and then both are compared. The prompt for who won is printed out.
+After that the user is prompted one more time with a question if they want to play again or not, if they 
+Input ‘y’ then the code will resell if anything else is input then the program ends. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
