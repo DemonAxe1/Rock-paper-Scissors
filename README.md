@@ -1,8 +1,6 @@
 # Rock-paper-Scissors
 <h1>Python Rock Paper and Scissors game!</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project playes a game with of rock paper scissors with a bot. The user picks 1, 2, or 3 which represents rock, paper, and scissors then the bot picks one of the 3. Then results are compared and the winner is announced.
 <br />
