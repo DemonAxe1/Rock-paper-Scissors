@@ -1,8 +1,8 @@
 # Rock-paper-Scissors
-<h1>Python Rock Paper and Scissors game!</h1>
+<h1>Python Rock, Paper, and Scissors Game!</h1>
 
 <h2>Description</h2>
-Project playes a game with of rock paper scissors with a bot. The user picks 1, 2, or 3 which represents rock, paper, and scissors then the bot picks one of the 3. Then results are compared and the winner is announced.
+The project plays a game of rock paper scissors with a bot. The user picks 1, 2, or 3 which represents rock, paper, and scissors then the bot picks one of the 3. Then results are compared and the winner is announced.
 <br />
 
 
@@ -21,7 +21,7 @@ Launch the program, prompted to pick an option: <br/>
 <img src="https://imgur.com/LH6TSz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Results are printed and the user is prompted to go again:  <br/>
+Results are printed, and the user is prompted to go again:  <br/>
 <img src="https://imgur.com/VuNocrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -29,7 +29,7 @@ Another option is selected: <br/>
 <img src="https://imgur.com/amYKXml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Prompt to continue or end the program reapears, y to go again, anything else to exit:  <br/>
+Prompt to continue or end the program reappears, "y" to go again, anything else to exit:  <br/>
 <img src="https://imgur.com/2YPuUDB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
