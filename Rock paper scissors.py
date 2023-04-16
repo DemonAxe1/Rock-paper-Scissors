@@ -1,5 +1,5 @@
 ###################################################################################################################
-#Name: Tarek Hisham Ahmed Fouad
+#Name: DemonAxe
 #
 #This code is a friendly game of rock paper scissors with a random bot picker.
 #The user picks 1, 2, or 3 which represents rock paper and scissors
